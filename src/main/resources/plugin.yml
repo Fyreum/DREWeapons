@@ -1,0 +1,7 @@
+name: DREWeapons
+version: @version@
+main: de.fyreum.dreweapons.DREWeapons
+api-version: 1.16
+authors: [Fyreum]
+depend: [WorldEdit]
+softdepend: [FactionsXL]
